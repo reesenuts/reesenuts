@@ -11,7 +11,6 @@
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/reese.nuts) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/reesenuts) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/reese.nuts) 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=reesenuts&theme=dracula&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=reesenuts&theme=dracula&hide_border=true&include_all_commits=true&count_private=false&layout=compact)<br/>
