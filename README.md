@@ -9,7 +9,7 @@
 ୨ৎ Frontend Developer <br>
 
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/reese.nuts) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/reesenuts) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/reese.nuts) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=pink)](https://discord.gg/reese.nuts) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=pink)](https://facebook.com/reesenuts) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=pink)](https://instagram.com/reese.nuts) 
 
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=reesenuts&theme=dracula&hide_border=true)<br/>
