@@ -1,8 +1,10 @@
 ## henlo, i'm lili. ✩°｡⋆⸜ 🎧⠀⠀⠀⠀⠀⠀
 
-<div align="center">
-ִֶָ𓂃 ࣪˖ ִֶָ🐇་༘࿐
+> people who live in glass houses shouldn’t throw stones.
 
+<div align="center">
+ִֶָ𓂃 ࣪˖ ִֶָ🐇་༘࿐<br>
+୨ৎ 20 ISTJ <br>
 ୨ৎ UI/UX Designer <br>
 ୨ৎ Frontend Developer <br>
 
