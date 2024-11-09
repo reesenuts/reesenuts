@@ -1,7 +1,5 @@
 ## henlo, i'm lili. ✩°｡⋆⸜ 🎧⠀⠀⠀⠀⠀⠀
 
-> people who live in glass houses shouldn’t throw stones.
-
 <div align="center">
 ִֶָ𓂃 ࣪˖ ִֶָ🐇་༘࿐<br>
 ୨ৎ 20 ISTJ <br>
